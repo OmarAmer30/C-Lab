@@ -1,0 +1,5 @@
+Write a C++ program for an eClinic.
+The program asks the patient to enter his/her gender and whether he/she has COVID-19 in the last 3 weeks.
+The gender is either 0 for males and 1 for females.
+The program reads the data (gender and COVID-19 test) for 20 patients and after it reads all data,
+it displays the count of females COVID-19 patients. 
